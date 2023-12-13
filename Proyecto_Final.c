@@ -39,7 +39,7 @@ int main() {
 
     if (comprobarDatos(nombre, clave)) {
         printf("Acceso concedido. ¡Bienvenido, %s!\n", nombre);
-        // Aquí puedes continuar con el resto del programa
+        // continuar aqui
     } else {
         printf("Datos incorrectos. Acceso denegado.\n");
     }
